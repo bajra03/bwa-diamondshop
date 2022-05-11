@@ -92,7 +92,7 @@ export default function SignUp() {
           <div className="button-group d-flex flex-column mx-auto pt-50">
             <a
               className="btn btn-sign-up fw-medium text-lg text-white rounded-pill mb-16"
-              href="../src/sign-up-photo.html"
+              href="/sign-up/photo"
               role="button"
             >
               Continue

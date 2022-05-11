@@ -516,7 +516,7 @@ const Home: NextPage = () => {
             data-aos="fade-up"
           >
             <div className="featured-game-card position-relative">
-              <a href="./src/detail.html">
+              <a href="/detail">
                 <div className="blur-sharp">
                   <img
                     src="/img/Thumbnail-1.png"
@@ -552,7 +552,7 @@ const Home: NextPage = () => {
               </a>
             </div>
             <div className="featured-game-card position-relative">
-              <a href="./src/detail.html">
+              <a href="/detail">
                 <div className="blur-sharp">
                   <img
                     src="/img/Thumbnail-2.png"
@@ -588,7 +588,7 @@ const Home: NextPage = () => {
               </a>
             </div>
             <div className="featured-game-card position-relative">
-              <a href="./src/detail.html">
+              <a href="/detail">
                 <div className="blur-sharp">
                   <img
                     src="/img/Thumbnail-3.png"
@@ -624,7 +624,7 @@ const Home: NextPage = () => {
               </a>
             </div>
             <div className="featured-game-card position-relative">
-              <a href="./src/detail.html">
+              <a href="/detail">
                 <div className="blur-sharp">
                   <img
                     src="/img/Thumbnail-4.png"
@@ -660,7 +660,7 @@ const Home: NextPage = () => {
               </a>
             </div>
             <div className="featured-game-card position-relative">
-              <a href="./src/detail.html">
+              <a href="/detail">
                 <div className="blur-sharp">
                   <img
                     src="/img/Thumbnail-5.png"

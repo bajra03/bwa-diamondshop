@@ -91,7 +91,7 @@ export default function Member() {
               </svg>
               <p className="item-title m-0">
                 <a
-                  href="../member/transactions.html"
+                  href="/member/transactions"
                   className="text-lg text-decoration-none"
                 >
                   Transactions
@@ -242,10 +242,7 @@ export default function Member() {
                 </defs>
               </svg>
               <p className="item-title m-0">
-                <a
-                  href="../member/edit-profile.html"
-                  className="text-lg text-decoration-none"
-                >
+                <a href="/member/edit" className="text-lg text-decoration-none">
                   Settings
                 </a>
               </p>
@@ -275,7 +272,7 @@ export default function Member() {
                 />
               </svg>
               <p className="item-title m-0">
-                <a href="" className="text-lg text-decoration-none">
+                <a href="/" className="text-lg text-decoration-none">
                   Log Out
                 </a>
               </p>

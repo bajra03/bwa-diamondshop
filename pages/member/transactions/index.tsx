@@ -102,7 +102,7 @@ export default function MemberTransaction() {
                     </td>
                     <td>
                       <a
-                        href="../member/transactions-detail.html"
+                        href="/member/transactions/detail"
                         className="btn btn-status rounded-pill text-sm"
                       >
                         Details
@@ -145,7 +145,7 @@ export default function MemberTransaction() {
                     </td>
                     <td>
                       <a
-                        href="../member/transactions-detail.html"
+                        href="/member/transactions/detail"
                         className="btn btn-status rounded-pill text-sm"
                       >
                         Details
@@ -188,7 +188,7 @@ export default function MemberTransaction() {
                     </td>
                     <td>
                       <a
-                        href="../member/transactions-detail.html"
+                        href="/member/transactions/detail"
                         className="btn btn-status rounded-pill text-sm"
                       >
                         Details
@@ -231,7 +231,7 @@ export default function MemberTransaction() {
                     </td>
                     <td>
                       <a
-                        href="../member/transactions-detail.html"
+                        href="/member/transactions/detail"
                         className="btn btn-status rounded-pill text-sm"
                       >
                         Details
