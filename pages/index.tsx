@@ -63,7 +63,7 @@ const Home: NextPage = () => {
             <div className="collapse navbar-collapse" id="navbarNav">
               <ul className="navbar-nav ms-auto text-lg gap-lg-0 gap-2">
                 <li className="nav-item my-auto">
-                  <a className="nav-link active" aria-current="page" href="#">
+                  <a className="nav-link active" aria-current="page" href="/">
                     Home
                   </a>
                 </li>
