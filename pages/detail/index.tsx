@@ -358,7 +358,7 @@ function Detail() {
                           </p>
                         </div>
                       </label>
-                      <div className="col-lg-4 col-sm-6">{/* Blank */}</div>
+                      <div className="col-lg-4 col-sm-6">{/* Blankk */}</div>
                     </div>
                   </fieldset>
                 </div>
