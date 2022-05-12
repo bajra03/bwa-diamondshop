@@ -9,7 +9,7 @@ import TransactionStep from "../components/organisms/TransactionStep";
 import FeaturedGame from "../components/organisms/FeaturedGame";
 import Reached from "../components/organisms/Reached";
 import Story from "../components/organisms/Story";
-import Footer from "../components/organisms/Footer/idnex";
+import Footer from "../components/organisms/Footer";
 
 const Home: NextPage = () => {
   useEffect(() => {
