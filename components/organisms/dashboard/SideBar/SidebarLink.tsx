@@ -13,15 +13,15 @@ interface SidebarLinkProps {
     | "icon-logout";
   title: string;
   link: string;
-  isActive?: boolean;
+  active?: boolean;
 }
 
 export default function SidebarLink(props: Partial<SidebarLinkProps>) {
-  const { icon, title, link = "/", isActive } = props;
+  const { icon, title, link = "/", active } = props;
   const classItem = cx({
     item: true,
     "mb-30": true,
-    active: isActive,
+    active: active,
   });
   return (
     <div className={classItem}>
