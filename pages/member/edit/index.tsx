@@ -1,6 +1,9 @@
+import SideBar from "../../../components/organisms/dashboard/SideBar";
+
 export default function MemberEdit() {
   return (
     <section className="edit-profile overflow-auto">
+      <SideBar />
       <main className="main-wrapper">
         <div className="ps-lg-0">
           <h2 className="text-4xl fw-bold color-palette-1 mb-30">Settings</h2>
