@@ -18,10 +18,10 @@ export default function Transaction() {
         <div className="row mt-30 mb-20">
           <div className="col-lg-12 col-12 main-content">
             <div id="list_status_title">
-              <ButtonTab title="All Trx" active />
-              <ButtonTab title="Failed" status="failed" />
-              <ButtonTab title="Pending" status="pending" />
-              <ButtonTab title="Success" status="success" />
+              <ButtonTab title="All Trx" status="default" active />
+              <ButtonTab title="Failed" status="failed" active={false} />
+              <ButtonTab title="Pending" status="pending" active={false} />
+              <ButtonTab title="Success" status="success" active={false} />
             </div>
           </div>
         </div>
