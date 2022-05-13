@@ -1,7 +1,7 @@
 import Navbar from "../../components/organisms/Navbar";
 import Footer from "../../components/organisms/Footer";
-import TopUpForm from "../../components/organisms/TopUpForm";
-import TopUpItem from "../../components/organisms/TopUpItem";
+import TopUpForm from "../../components/organisms/topup/TopUpForm";
+import TopUpItem from "../../components/organisms/topup/TopUpItem";
 import Image from "next/image";
 
 function Detail() {
