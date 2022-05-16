@@ -1,5 +1,4 @@
 import cx from "classnames";
-import { stat } from "fs";
 
 interface TableRowProps {
   name: string;
